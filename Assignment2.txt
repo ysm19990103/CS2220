@@ -1,0 +1,326 @@
+Q1.
+Training:
+BCR-ABL: 9
+E2A-PBX1: 18
+Hyperdip>50: 42
+Hyperdip47-50: 15
+Hypodip: 6
+MLL:14
+Normal: 12
+Pseudodip: 19
+T-ALL: 29
+TEL-AML1: 52
+
+Testing:
+BCR-ABL: 6
+E2A-PBX1: 9
+Hyperdip>50: 22
+Hyperdip47-50: 8
+Hypodip: 3
+MLL: 7
+Normal: 6
+Pseudodip: 10
+T-ALL: 15
+TEL-AML1: 26
+
+Yes, all the samples have the same number of genes.
+
+
+Q2. 
+265 genes are left.
+
+Q3.The csv files are also uploaded to ivle. 
+
+Q4.
+ChiSqValue  idx gene
+183.1861    130 41213_at
+165.9846    180 37383_f_at
+150.8928    241 1241_at
+147.3524    122 41143_at
+141.5353    168 36571_at
+138.9574    171 36634_at
+131.4699     95 38527_at
+130.9884    250 649_s_at
+129.2601    108 39755_at
+121.4262    154 35336_at
+ 98.5216    221 1980_s_at
+ 97.6929    101 36537_at
+ 93.746     146 34336_at
+ 92.1263    181 37677_at
+ 91.4415     49 33674_at
+ 91.4237    137 41785_at
+ 88.1518    115 40771_at
+ 83.9005     54 34160_at
+ 80.8432    153 35307_at
+ 80.1576    187 38114_at
+ 79.1989    235 1310_at
+ 78.9866    224 1718_at
+ 74.9349    239 1268_at
+ 74.6968    165 36169_at
+ 74.6619    219 2035_s_at
+ 74.577      71 36446_s_at
+ 74.4722     53 34091_s_at
+ 74.1509    259 306_s_at
+ 72.7132    256 319_g_at
+ 71.4409    253 409_at
+ 71.3119    112 40134_at
+ 70.6774    173 36666_at
+ 70.3136    217 33131_at
+ 68.7743     60 34643_at
+ 68.3556    212 32576_at
+ 67.8951    158 35748_at
+ 67.5354    166 36181_at
+ 66.66        5 31492_at
+ 65.3468    195 39916_r_at
+ 64.9694    100 36517_at
+ 64.9147    121 40875_s_at
+ 63.8632    159 35759_at
+ 61.8017     99 32736_at
+ 61.457     249 676_g_at
+ 61.2952     59 34609_g_at
+ 60.083     206 41295_at
+ 58.6305     65 35055_at
+ 51.3977    183 38061_at
+ 51.0554    191 38751_i_at
+ 50.39      189 38456_s_at
+ 50.371     190 38733_at
+  0          39 32466_at
+  0          83 32341_f_at
+  0          87 33994_g_at
+  0          86 33984_at
+  0          85 33485_at
+  0          13 31557_at
+  0          88 35450_s_at
+  0          89 35905_s_at
+  0          92 37448_s_at
+  0          91 36786_at
+  0          90 36224_g_at
+  0          84 33458_r_at
+  0          82 32340_s_at
+  0          40 32487_s_at
+  0          14 31568_at
+  0          78 32330_at
+  0          77 32324_at
+  0          76 32318_s_at
+  0          17 31584_at
+  0          16 31583_at
+  0          79 32334_f_at
+  0          15 31573_at
+  0          81 32337_at
+  0          80 32335_r_at
+  0          93 37449_i_at
+  0          94 37450_r_at
+  0          12 31546_at
+  0          11 31545_at
+  0           4 31481_s_at
+  0           6 31505_at
+  0         107 39740_g_at
+  0           3 31463_s_at
+  0         109 39798_at
+  0         110 40096_at
+  0         113 40146_at
+  0           2 31385_at
+  0         111 40115_at
+  0         106 39739_at
+  0         105 39027_at
+  0         104 38708_at
+  0          97 38589_i_at
+  0          96 38542_at
+  0          10 31538_at
+  0          98 38590_r_at
+  0           9 31527_at
+  0         103 38681_at
+  0         102 37984_s_at
+  0           7 31509_at
+  0           8 31511_at
+  0          75 32316_s_at
+  0          74 32315_at
+  0          18 31697_s_at
+  0         114 40435_at
+  0          35 32436_at
+  0          52 34085_at
+  0          51 33677_at
+  0          34 32435_at
+  0          55 34570_at
+  0          33 32432_f_at
+  0          58 34608_at
+  0          57 34593_g_at
+  0          56 34592_at
+  0          50 33676_at
+  0          36 32437_at
+  0          48 33668_at
+  0          41 33614_at
+  0          38 32440_at
+  0          43 33656_at
+  0          42 33619_at
+  0          44 33657_at
+  0          47 33667_at
+  0          46 33660_at
+  0          37 32438_at
+  0          45 33659_at
+  0          32 32412_at
+  0          31 32408_s_at
+  0          19 31708_at
+  0          30 32395_r_at
+  0          23 31951_s_at
+  0          69 36333_at
+  0          68 35125_at
+  0          70 36358_at
+  0          22 31950_at
+  0          21 31907_at
+  0          73 32276_at
+  0          20 31722_at
+  0          72 32272_at
+  0          67 35119_at
+  0          66 35083_at
+  0          24 31952_at
+  0          28 31962_at
+  0          29 32394_s_at
+  0          62 34645_at
+  0          61 34644_at
+  0          27 31957_r_at
+  0          64 34647_at
+  0          25 31955_at
+  0          26 31956_f_at
+  0          63 34646_at
+  0         265 151_s_at
+  0         133 41231_f_at
+  0         116 40777_at
+  0         215 33116_f_at
+  0         216 33117_r_at
+  0         214 32590_at
+  0         194 39867_at
+  0         213 32588_s_at
+  0         218 33154_at
+  0         220 2016_s_at
+  0         222 1836_at
+  0         223 1817_at
+  0         227 1641_s_at
+  0         226 1653_at
+  0         225 1676_s_at
+  0         211 32553_at
+  0         210 41833_at
+  0         209 41485_at
+  0         201 40886_at
+  0         199 40593_at
+  0         198 40211_at
+  0         197 40189_at
+  0         200 40637_at
+  0         202 40887_g_at
+  0         208 41483_s_at
+  0         203 40888_f_at
+  0         207 41338_at
+  0         205 41256_at
+  0         204 40910_at
+  0         228 1612_s_at
+  0         229 1447_at
+  0         230 1420_s_at
+  0         257 326_i_at
+  0         254 347_s_at
+  0         252 428_s_at
+  0         251 571_at
+  0         255 351_f_at
+  0         258 327_f_at
+  0         247 911_s_at
+  0         260 254_at
+  0         263 201_s_at
+  0         262 227_g_at
+  0         261 256_s_at
+  0         248 723_s_at
+  0         246 970_r_at
+  0         231 1424_s_at
+  0         237 1315_at
+  0         234 1323_at
+  0         233 1367_f_at
+  0         232 1366_i_at
+
+Q5.The genes selected in Q4 may not be specifically discriminative for a specific subtype. Describe what you will need to do if you have to select the 30 most discriminative genes for each subtype.Select 30 genes with highest chi-square value for each subtype by merging other subtypes into a single class(OTHERS) and selecting genes that are most discriminating in distinguishing that subtype from OTHERS. Repeat this process for each subtype. Eg.Can use the MultiClassClassifier in Weka, wrap the AttributeSelectedClassifier inside, select the 30 most discriminative genes with the highest chi-square values, wrap a basic classifier such as J48 or SMO inside. 
+workflow: weka.classifiers.meta.MultiClassClassifier -M 0 -R 2.0 -S 1 -W weka.classifiers.meta.AttributeSelectedClassifier -- -E "weka.attributeSelection.ChiSquaredAttributeEval " -S "weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N 30" -W weka.classifiers.trees.J48 -num-decimal-places 3 -- -C 0.25 -M 2 
+
+Q6.Build a SVM classifier and a C4.5 classifier on the training data using the 200 genes selected in Q4. Test these two classifiers on the testing set. •	Show the confusion matrix for these two tests.•	What is the accuracy of these two classifiers?SVM  accuracy: 75.8929%=== Summary ===
+
+Correctly Classified Instances          85               75.8929 %
+Incorrectly Classified Instances        27               24.1071 %
+Kappa statistic                          0.7172
+Mean absolute error                      0.1631
+Root mean squared error                  0.2775
+Relative absolute error                 94.8168 %
+Root relative squared error             94.6328 %
+Total Number of Instances              112     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.200    0.088    0.182      0.200    0.190      0.107    0.631     0.135     Pseudodip
+                 0.962    0.035    0.893      0.962    0.926      0.904    0.987     0.923     TEL-AML1
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     T-ALL
+                 0.500    0.047    0.375      0.500    0.429      0.396    0.905     0.281     BCR-ABL
+                 0.125    0.029    0.250      0.125    0.167      0.133    0.599     0.112     Hyperdip47-50
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     E2A-PBX1
+                 1.000    0.033    0.880      1.000    0.936      0.922    0.983     0.880     Hyperdip>50
+                 0.000    0.000    0.000      0.000    0.000      0.000    0.644     0.118     Hypodip
+                 0.714    0.010    0.833      0.714    0.769      0.758    0.858     0.634     MLL
+                 0.500    0.028    0.500      0.500    0.500      0.472    0.710     0.289     Normal
+Weighted Avg.    0.759    0.029    0.727      0.759    0.740      0.718    0.893     0.695     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e  f  g  h  i  j   <-- classified as
+  2  0  0  2  3  0  0  0  1  2 |  a = Pseudodip
+  1 25  0  0  0  0  0  0  0  0 |  b = TEL-AML1
+  0  0 15  0  0  0  0  0  0  0 |  c = T-ALL
+  2  0  0  3  0  0  1  0  0  0 |  d = BCR-ABL
+  4  1  0  1  1  0  0  0  0  1 |  e = Hyperdip47-50
+  0  0  0  0  0  9  0  0  0  0 |  f = E2A-PBX1
+  0  0  0  0  0  0 22  0  0  0 |  g = Hyperdip>50
+  2  0  0  0  0  0  1  0  0  0 |  h = Hypodip
+  0  1  0  0  0  0  1  0  5  0 |  i = MLL
+  0  1  0  2  0  0  0  0  0  3 |  j = Normal
+
+
+
+C4.5  accuracy: 56.25%
+=== Summary ===
+
+Correctly Classified Instances          63               56.25   %
+Incorrectly Classified Instances        49               43.75   %
+Kappa statistic                          0.491 
+Mean absolute error                      0.091 
+Root mean squared error                  0.2819
+Relative absolute error                 52.8919 %
+Root relative squared error             96.1478 %
+Total Number of Instances              112     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.000    0.069    0.000      0.000    0.000      -0.081   0.611     0.148     Pseudodip
+                 0.654    0.070    0.739      0.654    0.694      0.610    0.809     0.609     TEL-AML1
+                 0.867    0.103    0.565      0.867    0.684      0.644    0.865     0.443     T-ALL
+                 0.333    0.047    0.286      0.333    0.308      0.266    0.643     0.131     BCR-ABL
+                 0.125    0.058    0.143      0.125    0.133      0.072    0.506     0.094     Hyperdip47-50
+                 0.667    0.039    0.600      0.667    0.632      0.599    0.858     0.464     E2A-PBX1
+                 0.909    0.022    0.909      0.909    0.909      0.887    0.943     0.844     Hyperdip>50
+                 0.000    0.018    0.000      0.000    0.000      -0.022   0.491     0.027     Hypodip
+                 0.286    0.038    0.333      0.286    0.308      0.266    0.612     0.330     MLL
+                 0.333    0.028    0.400      0.333    0.364      0.333    0.646     0.169     Normal
+Weighted Avg.    0.563    0.055    0.542      0.563    0.547      0.496    0.769     0.461     
+
+=== Confusion Matrix ===
+
+  a  b  c  d  e  f  g  h  i  j   <-- classified as
+  0  2  2  4  0  0  0  0  2  0 |  a = Pseudodip
+  3 17  0  0  1  1  1  1  0  2 |  b = TEL-AML1
+  0  0 13  0  1  1  0  0  0  0 |  c = T-ALL
+  0  1  1  2  0  0  0  1  0  1 |  d = BCR-ABL
+  4  0  2  0  1  1  0  0  0  0 |  e = Hyperdip47-50
+  0  1  0  0  2  6  0  0  0  0 |  f = E2A-PBX1
+  0  0  0  0  1  1 20  0  0  0 |  g = Hyperdip>50
+  0  0  1  0  1  0  0  0  1  0 |  h = Hypodip
+  0  1  4  0  0  0  0  0  2  0 |  i = MLL
+  0  1  0  1  0  0  1  0  1  2 |  j = Normal
+
+Q7. Suggest a possible way to improve the accuracy of the classifiers built in Q6.
+
+(1). Can use the tree-structured diagnostic workflow. At each level, choose 30 most discriminative genes and apply classifier using those 30 genes to construct a decision model to predict the subtypes of test instances of that level.
+(2). Can investigate on the genes that have chi-square value of 0 before directly using them for classification. They maybe genes that are equally expressed in all different ALL subtypes and not suitable to be used for classification. (1) is a better way than (2). 
